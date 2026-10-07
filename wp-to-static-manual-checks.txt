@@ -1,0 +1,15 @@
+404.html	form requires separate functional check
+author/daniel-fraser/page/2/index.html	form requires separate functional check
+author/emily-tremblay/page/2/index.html	form requires separate functional check
+author/priya-sharma/page/2/index.html	form requires separate functional check
+casino-bonuses/index.html	form requires separate functional check
+category/sport/page/2/index.html	form requires separate functional check
+category/sport/page/3/index.html	form requires separate functional check
+category/sport/page/4/index.html	form requires separate functional check
+category/sport/page/5/index.html	form requires separate functional check
+category/sport/page/6/index.html	form requires separate functional check
+page/2/index.html	form requires separate functional check
+page/3/index.html	form requires separate functional check
+page/4/index.html	form requires separate functional check
+page/5/index.html	form requires separate functional check
+page/6/index.html	form requires separate functional check

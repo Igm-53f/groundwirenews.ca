@@ -1,0 +1,5 @@
+/* groundwirenews — per-site overrides.
+   The parent base + your design preset already style the whole site.
+   Use this file only for one-off tweaks that tokens can't express.
+   Loads after the base CSS, so plain selectors win. Prefer changing the
+   look via Appearance → Customize (preset + token pickers) first. */

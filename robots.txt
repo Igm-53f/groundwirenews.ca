@@ -1,0 +1,32 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow: /adminlogin/
+Disallow: /card/
+Disallow: /fotos/
+Disallow: /temp/
+Disallow: /search/
+Disallow: /register/
+Disallow: /adminpanel/
+Disallow: /forgot-password/
+Disallow: /admin-assets/
+Disallow: /search?*
+Disallow: /search?search=
+Disallow: /*-pdf$
+Disallow: /?
+Disallow: /*?
+Disallow: /*?page=
+Disallow: /cgi-bin*
+
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: CCBot
+Disallow: /
+
+# ---------------------------
+# END YOAST BLOCK
+
+Sitemap: https://groundwirenews.ca/sitemap_index.xml

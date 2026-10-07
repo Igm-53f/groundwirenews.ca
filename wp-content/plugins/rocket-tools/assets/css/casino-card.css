@@ -1,0 +1,537 @@
+/* Casino card — Крок 3, public front-end enqueue fixed (P1). Themeable via
+   CSS custom properties so per-site adaptation (§10 / P2) is a token swap —
+   RT_Casino's own "Цвета витрины" settings write an explicit :root override
+   for these; until saved, the var(--theme-var, fallback) chains below let a
+   theme's own matching custom properties (where it has any) show through
+   without ever touching/cloning the theme's stylesheet. */
+
+:root {
+    --rt-cas-accent: var(--primary-theme-color, #159a53);
+    --rt-cas-cta-bg: var(--button-background, var(--rt-cas-accent));
+    --rt-cas-cta-text: var(--button-color, #fff);
+    /* Fixed amber, NOT chained to the theme like accent/cta above — a rating
+       convention (gold stars) reads correctly regardless of brand color;
+       inheriting an arbitrary theme accent here could render stars in a
+       color visitors wouldn't recognize as a rating at all. Still fully
+       overridable per-site via the color picker (P2). */
+    --rt-cas-star: #f5a623;
+    --rt-cas-ink: #1c2320;
+    --rt-cas-mut: #6b7671;
+    --rt-cas-line: #e3e7e4;
+    --rt-cas-bg: #fff;
+    --rt-cas-radius: 18px;
+    /* Logo tile. Dark by default: most casino wordmarks are drawn for dark
+       site headers (white/neon lettering on transparency) and simply vanish
+       on a white tile. Overridable per site in "Цвета витрины". */
+    --rt-cas-logo-bg: #151a24;
+}
+
+.rt-cas-card {
+    max-width: 420px;
+    padding: 22px 24px;
+    border: 1px solid var(--rt-cas-line);
+    border-radius: var(--rt-cas-radius);
+    background: var(--rt-cas-bg);
+    color: var(--rt-cas-ink);
+    font-size: 14px;
+    line-height: 1.55;
+    box-shadow: 0 1px 3px rgba(16, 24, 40, 0.04), 0 12px 30px rgba(16, 24, 40, 0.08);
+    transition: box-shadow 0.22s ease, transform 0.22s ease;
+}
+.rt-cas-card * { box-sizing: border-box; }
+.rt-cas-card:hover {
+    box-shadow: 0 2px 6px rgba(16, 24, 40, 0.06), 0 18px 40px rgba(16, 24, 40, 0.12);
+}
+/* Only the compact card lifts on hover — lifting a full-width row reads as a
+   layout jump rather than an affordance. */
+.rt-cas-card--card:hover { transform: translateY(-2px); }
+
+.rt-cas-card-top {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 12px;
+}
+/* A 2:1 tile, not a square: the logos are horizontal wordmarks, and in a
+   square they shrink to an unreadable strip. */
+.rt-cas-card-logo {
+    width: 104px;
+    height: 52px;
+    padding: 7px 10px;
+    object-fit: contain;
+    border-radius: 10px;
+    flex-shrink: 0;
+    background: var(--rt-cas-logo-bg);
+    border: 1px solid rgba(16, 24, 40, 0.14);
+    box-shadow: 0 1px 4px rgba(16, 24, 40, 0.10);
+}
+/* No logo uploaded: the brand name set as a wordmark in the same tile, so the
+   card keeps its shape (and the rank badge does not land on the title). */
+.rt-cas-card-logo--empty {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 800;
+    line-height: 1.1;
+    letter-spacing: 0.05em;
+    text-align: center;
+    text-transform: uppercase;
+}
+.rt-cas-card-head { min-width: 0; }
+.rt-cas-card-name {
+    font-weight: 700;
+    font-size: 16px;
+    letter-spacing: -0.01em;
+    margin-bottom: 4px;
+}
+
+.rt-cas-stars { color: var(--rt-cas-star); display: inline-flex; gap: 1px; vertical-align: middle; }
+.rt-cas-rating-value { color: var(--rt-cas-mut); font-size: 12px; margin-left: 4px; }
+
+.rt-cas-card-bonus {
+    margin: 0 0 10px;
+    font-weight: 700;
+    font-size: 15px;
+}
+.rt-cas-card-meta {
+    display: flex;
+    gap: 14px;
+    margin: 0 0 10px;
+    font-size: 12.5px;
+    color: var(--rt-cas-mut);
+}
+
+.rt-cas-card-pros {
+    list-style: none;
+    margin: 0 0 14px;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.rt-cas-card-pros li {
+    display: flex;
+    align-items: center;
+    gap: 9px;
+    font-size: 13px;
+}
+/* Green pill check — the SVG's currentColor stroke turns white against the
+   accent fill, matching the stat checks in the row template. */
+.rt-cas-check {
+    color: #fff;
+    background: var(--rt-cas-accent);
+    border-radius: 50%;
+    padding: 2px;
+    flex-shrink: 0;
+}
+
+/* Action group: the money button plus the "more info" toggle, kept together
+   so the compact card stacks them and the row template can centre them in one
+   column. */
+.rt-cas-card-action {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: stretch;
+}
+
+.rt-cas-card-cta {
+    display: block;
+    text-align: center;
+    padding: 13px 24px;
+    border-radius: 999px;
+    background: var(--rt-cas-cta-bg);
+    color: var(--rt-cas-cta-text);
+    font-weight: 700;
+    letter-spacing: 0.01em;
+    text-decoration: none;
+    /* Coloured glow that tracks the (themeable) button colour; the flat rgba
+       line is the fallback for browsers without color-mix(). */
+    box-shadow: 0 8px 20px rgba(21, 154, 83, 0.30);
+    box-shadow: 0 8px 20px color-mix(in srgb, var(--rt-cas-cta-bg) 40%, transparent);
+    transition: transform 0.15s ease, box-shadow 0.15s ease, filter 0.15s ease;
+}
+.rt-cas-card-cta:hover,
+.rt-cas-card-cta:focus-visible {
+    filter: brightness(0.95);
+    color: var(--rt-cas-cta-text);
+    transform: translateY(-1px);
+    box-shadow: 0 12px 28px rgba(21, 154, 83, 0.42);
+    box-shadow: 0 12px 28px color-mix(in srgb, var(--rt-cas-cta-bg) 52%, transparent);
+}
+.rt-cas-card-cta-missing {
+    color: #b3261e;
+    font-size: 12.5px;
+    margin: 0;
+}
+
+/* ---- T&C accordion: content stays in the DOM, never display:none ---- */
+
+/* Secondary "outline pill" — clearly subordinate to the solid CTA (different
+   fill, lighter weight) so the two never read as competing buttons, while
+   still looking like a real, tappable control rather than a bare text link. */
+.rt-cas-tc-trigger {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    width: auto;
+    max-width: 100%;
+    min-height: 42px;
+    padding: 9px 18px;
+    border: 1px solid var(--rt-cas-line);
+    border-radius: 999px;
+    background: var(--rt-cas-bg);
+    color: var(--rt-cas-ink);
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: border-color 0.15s ease, color 0.15s ease, background 0.15s ease;
+}
+.rt-cas-tc-trigger:hover,
+.rt-cas-tc-trigger:focus-visible {
+    border-color: var(--rt-cas-accent);
+    color: var(--rt-cas-accent);
+}
+.rt-cas-tc-trigger:focus-visible {
+    outline: 2px solid var(--rt-cas-accent);
+    outline-offset: 2px;
+}
+.rt-cas-tc-caret { width: 13px; height: 13px; transition: transform 0.2s ease; flex-shrink: 0; }
+.rt-cas-tc-trigger[aria-expanded="true"] .rt-cas-tc-caret { transform: rotate(180deg); }
+
+.rt-cas-tc-panel {
+    display: grid;
+    grid-template-rows: 0fr;
+    transition: grid-template-rows 0.25s ease;
+}
+.rt-cas-tc-panel.is-open { grid-template-rows: 1fr; }
+.rt-cas-tc-inner {
+    overflow: hidden;
+    min-height: 0;
+}
+/* Divider + breathing room appear only when open, so a collapsed card shows no
+   stray hairline (matches the reference, where the rule is part of the
+   expanded detail panel, not the summary row). */
+.rt-cas-tc-panel.is-open .rt-cas-tc-inner {
+    padding-top: 16px;
+    margin-top: 14px;
+    border-top: 1px solid var(--rt-cas-line);
+}
+.rt-cas-tc-inner p {
+    margin: 0 0 10px;
+    font-size: 12.5px;
+    line-height: 1.5;
+    color: var(--rt-cas-mut);
+}
+.rt-cas-tc-inner p:last-child { margin-bottom: 0; }
+.rt-cas-tc-inner a {
+    display: inline-block;
+    margin-top: 2px;
+    font-size: 12.5px;
+    font-weight: 550;
+    color: var(--rt-cas-accent);
+}
+
+@media (max-width: 480px) {
+    .rt-cas-card { max-width: 100%; }
+}
+
+/* ---- Rank badge (shown only when the block passes a 1-based position) ---- */
+
+.rt-cas-card-top { position: relative; }
+.rt-cas-rank {
+    position: absolute;
+    top: -10px;
+    left: -10px;
+    z-index: 1;
+    min-width: 24px;
+    height: 24px;
+    padding: 0 6px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 12px;
+    background: var(--rt-cas-accent);
+    background: linear-gradient(135deg, color-mix(in srgb, var(--rt-cas-accent) 78%, #fff), var(--rt-cas-accent));
+    color: #fff;
+    font-size: 12px;
+    font-weight: 800;
+    line-height: 1;
+    border: 2px solid var(--rt-cas-bg);
+    box-shadow: 0 3px 8px rgba(16, 24, 40, 0.30);
+}
+
+/* ---- Showcase wrapper (Крок 4: the block renders a list of cards) ---- */
+
+.rt-cas-showcase {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    /* The row template reflows by the width of the place it sits in (article
+       column, sidebar, full-width band), not by the viewport — see the
+       @container rules at the end of the file. */
+    container-type: inline-size;
+    container-name: rtcas;
+}
+.rt-cas-showcase--row .rt-cas-card { max-width: 100%; }
+
+/* ---- Row template: full-width horizontal comparison band on desktop,
+   stacked to a single column on narrow screens. Same markup as the card
+   template — a pure CSS reflow via grid areas (no hidden content: RTP,
+   Payout, Pros and the T&C accordion all stay visible). The brand and CTA
+   columns span both info rows so they read as vertically centred; the T&C
+   accordion is its own full-width row so the revealed text has room. ---- */
+
+.rt-cas-card--row {
+    max-width: 100%;
+    display: grid;
+    grid-template-columns:
+        minmax(0, 1.5fr)      /* brand: logo + name + rating */
+        minmax(0, 1.4fr)      /* bonus */
+        minmax(0, 1.5fr)      /* stats: RTP/Payout + pros, one list */
+        minmax(150px, auto);  /* action: CTA + more-info */
+    grid-template-areas:
+        "brand bonus stats action"
+        "panel panel panel panel";
+    align-items: center;
+    column-gap: 26px;
+    row-gap: 12px;
+    padding: 22px 26px;
+}
+.rt-cas-card--row .rt-cas-card-top {
+    grid-area: brand;
+    margin-bottom: 0;
+    min-width: 0;
+}
+.rt-cas-card--row .rt-cas-card-logo { width: 96px; height: 48px; }
+.rt-cas-card--row .rt-cas-card-name { font-size: 15px; }
+
+.rt-cas-card--row .rt-cas-card-bonus {
+    grid-area: bonus;
+    margin: 0;
+    min-width: 0;
+    font-size: 15px;
+    font-weight: 650;
+    color: var(--rt-cas-accent);
+}
+
+/* The whole stats column is ONE evenly-spaced green-check list. RTP/Payout and
+   the Pros share the same 10px rhythm, so there is no gap between the two
+   groups that could read as a missing row (the reported layout bug). */
+.rt-cas-card--row .rt-cas-card-stats {
+    grid-area: stats;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    min-width: 0;
+}
+.rt-cas-card--row .rt-cas-card-meta {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: 0;
+    font-size: 13px;
+    color: var(--rt-cas-ink);
+}
+.rt-cas-card--row .rt-cas-card-meta span {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.rt-cas-card--row .rt-cas-card-meta span::before {
+    content: "✓";
+    flex-shrink: 0;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: var(--rt-cas-accent);
+    color: #fff;
+    font-size: 11px;
+    font-weight: 700;
+    line-height: 1;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+.rt-cas-card--row .rt-cas-card-pros {
+    margin: 0;
+    gap: 10px;
+}
+.rt-cas-card--row .rt-cas-card-pros li { gap: 10px; font-size: 13px; }
+
+/* Money button + "more info" toggle stacked and vertically centred in the
+   action column; both fill the column width so they align like the reference.
+   The expandable panel is its own full-width row underneath. */
+.rt-cas-card--row .rt-cas-card-action {
+    grid-area: action;
+    justify-content: center;
+    gap: 8px;
+}
+.rt-cas-card--row .rt-cas-card-cta { width: 100%; }
+.rt-cas-card--row .rt-cas-tc-trigger { width: 100%; }
+.rt-cas-card--row .rt-cas-tc-panel { grid-area: panel; }
+
+/* WP's tablet/mobile breakpoint — collapse the band to a single column so it
+   reads as a normal stacked card on phones. */
+@media (max-width: 782px) {
+    .rt-cas-card--row {
+        grid-template-columns: 1fr;
+        grid-template-areas:
+            "brand"
+            "bonus"
+            "stats"
+            "action"
+            "panel";
+        align-items: stretch;
+        row-gap: 16px;
+        padding: 20px;
+    }
+    .rt-cas-card--row .rt-cas-card-top { align-items: center; }
+    .rt-cas-card--row .rt-cas-card-cta { text-align: center; }
+}
+
+/* ---- Automatic placements (1.15): homepage / in-article / sidebar widget.
+   The showcase markup is identical to the block's; these rules only handle
+   the spacing around it and how it sits inside a theme's containers. ---- */
+
+.rt-cas-placement { margin: 28px 0; }
+.rt-cas-placement > .rt-cas-showcase { width: 100%; }
+
+/* Echoed at loop_start, i.e. INSIDE the theme's post list. If that list is
+   a CSS grid or flex row, make the band its own full-width row instead of
+   one narrow cell among the post cards. */
+.rt-cas-placement--inloop {
+    grid-column: 1 / -1;
+    flex: 0 0 100%;
+    width: 100%;
+    margin-top: 0;
+}
+
+.rt-cas-placement--post { clear: both; }
+
+/* "All bonuses →" link under the in-article showcase. */
+.rt-cas-more {
+    margin: 10px 0 0;
+    text-align: right;
+    font-size: 14px;
+}
+.rt-cas-more a {
+    color: var(--rt-cas-accent);
+    font-weight: 600;
+    text-decoration: none;
+}
+.rt-cas-more a:hover,
+.rt-cas-more a:focus-visible { text-decoration: underline; }
+
+/* Sidebar widget: compact cards, no outer margin (the widget wrapper has its own). */
+.rt-cas-widget .rt-cas-placement { margin: 0; }
+.rt-cas-widget .rt-cas-card { max-width: 100%; padding: 16px 18px; }
+.rt-cas-widget .rt-cas-showcase { gap: 12px; }
+
+/* Optional heading above a placed showcase. A styled <p>, not a real heading
+   tag: it must not enter the article outline or a table-of-contents plugin. */
+.rt-cas-heading {
+    margin: 0 0 14px;
+    color: var(--rt-cas-ink);
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 1.25;
+    letter-spacing: -0.01em;
+}
+
+/* ---- Row template by container width (placements put it in columns of any
+   width). Comes AFTER the 782px viewport rule above so that, where container
+   queries are supported, the container decides; older browsers keep the
+   viewport behaviour.
+     > 900px   four columns (the rule near the top)
+     ≤ 900px   brand + button on one line, bonus and perks underneath
+               (an article column: four columns there leave ~70px for the
+               brand name and every line wraps)
+     ≤ 460px   everything stacked                                         ---- */
+
+@container rtcas (max-width: 900px) {
+    .rt-cas-card--row {
+        grid-template-columns: minmax(0, 1fr) auto;
+        grid-template-areas:
+            "brand action"
+            "bonus bonus"
+            "stats stats"
+            "panel panel";
+        align-items: center;
+        column-gap: 16px;
+        row-gap: 12px;
+        padding: 18px 20px;
+    }
+    .rt-cas-card--row .rt-cas-card-action { min-width: 140px; }
+    .rt-cas-card--row .rt-cas-card-bonus { font-size: 16px; }
+    .rt-cas-card--row .rt-cas-card-pros { flex-direction: row; flex-wrap: wrap; gap: 8px 18px; }
+}
+
+@container rtcas (max-width: 460px) {
+    .rt-cas-card--row {
+        grid-template-columns: 1fr;
+        grid-template-areas:
+            "brand"
+            "bonus"
+            "stats"
+            "action"
+            "panel";
+        align-items: stretch;
+    }
+    .rt-cas-card--row .rt-cas-card-pros { flex-direction: column; gap: 8px; }
+}
+
+/* ---- Theme-proofing. The showcase is printed inside article content and
+   widget areas of themes we do not control; their generic rules
+   (`.entry-content a`, `.widget ul li`, `.post img`) outrank a single-class
+   selector and were repainting the button label as an underlined blue link.
+   These repeat only the properties a theme is known to hijack, with enough
+   weight to win. ---- */
+
+.rt-cas-card a.rt-cas-card-cta,
+.rt-cas-card a.rt-cas-card-cta:link,
+.rt-cas-card a.rt-cas-card-cta:visited,
+.rt-cas-card a.rt-cas-card-cta:hover,
+.rt-cas-card a.rt-cas-card-cta:focus,
+.rt-cas-card a.rt-cas-card-cta:active {
+    color: var(--rt-cas-cta-text) !important;
+    background: var(--rt-cas-cta-bg) !important;
+    text-decoration: none !important;
+    border: 0 !important;
+}
+.rt-cas-card img.rt-cas-card-logo {
+    max-width: none !important;
+    margin: 0 !important;
+    float: none !important;
+    display: block;
+}
+.rt-cas-card img.rt-cas-card-logo,
+.rt-cas-card .rt-cas-card-logo--empty { width: 104px !important; height: 52px !important; }
+.rt-cas-card--row img.rt-cas-card-logo,
+.rt-cas-card--row .rt-cas-card-logo--empty { width: 96px !important; height: 48px !important; }
+.rt-cas-card ul.rt-cas-card-pros {
+    list-style: none !important;
+    margin-left: 0 !important;
+    padding: 0 !important;
+}
+.rt-cas-card ul.rt-cas-card-pros > li {
+    list-style: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.rt-cas-card ul.rt-cas-card-pros > li::before,
+.rt-cas-card ul.rt-cas-card-pros > li::marker { content: none !important; }
+.rt-cas-card p.rt-cas-card-bonus,
+.rt-cas-card p.rt-cas-card-meta { padding: 0 !important; }
+
+/* Phones, single posts: the article already carries the full showcase, so the
+   sidebar copy is redundant there. It is also where some themes break —
+   rocket-theme keeps its two-column single-post grid on phones and paints the
+   sidebar over the article text — so our cards must not add to that. */
+@media (max-width: 880px) {
+    body.single .rt-cas-widget { display: none !important; }
+}

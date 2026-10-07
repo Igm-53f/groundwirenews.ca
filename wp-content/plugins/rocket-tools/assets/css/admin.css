@@ -1,0 +1,860 @@
+/* ============================================================
+   Rocket Tools — единая дизайн-система админки.
+   Всё скоупится под .rt-ui (обёртка страницы плагина),
+   плюс легаси-классы секций перекрашены в общую палитру.
+   ============================================================ */
+
+.rt-ui {
+    --rt-ink:      #1c2320;   /* основной текст */
+    --rt-mut:      #6b7671;   /* вторичный текст */
+    --rt-line:     #e3e7e4;   /* рамки */
+    --rt-bg:       #fff;      /* фон карточек */
+    --rt-soft:     #f5f7f6;   /* мягкий фон */
+    --rt-accent:   #176a4f;   /* фирменный зелёный */
+    --rt-accent-2: #125540;   /* hover */
+    --rt-accent-bg:#eef7f3;   /* светлая подложка акцента */
+    --rt-warn:     #9a6700;
+    --rt-warn-bg:  #fdf8ec;
+    --rt-danger:   #b3261e;
+    --rt-danger-bg:#fdf1f0;
+
+    max-width: 1140px;
+    margin: 10px 20px 40px 0;
+    color: var(--rt-ink);
+    font-size: 13.5px;
+    line-height: 1.55;
+}
+.rt-ui *, .rt-ui *::before, .rt-ui *::after { box-sizing: border-box; }
+
+/* ---- шапка страницы ---- */
+
+.rt-head {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    flex-wrap: wrap;
+    margin: 14px 0 4px;
+}
+.rt-brand {
+    margin: 0;
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: -0.015em;
+    color: var(--rt-ink);
+    padding: 0;
+}
+.rt-brand-mark { color: var(--rt-accent); }
+.rt-version {
+    font-size: 11px;
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+    color: var(--rt-mut);
+    background: var(--rt-soft);
+    border: 1px solid var(--rt-line);
+    border-radius: 999px;
+    padding: 2px 10px;
+}
+.rt-update {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    margin-left: auto;
+    padding: 5px 6px 5px 14px;
+    background: var(--rt-warn-bg);
+    border: 1px solid #ecd9a8;
+    border-radius: 999px;
+    font-size: 12.5px;
+    color: var(--rt-ink);
+}
+.rt-update a.rt-btn { padding: 3px 12px; font-size: 12px; }
+
+/* ---- вкладки ---- */
+
+.rt-tabs {
+    display: flex;
+    gap: 2px;
+    flex-wrap: wrap;
+    margin: 14px 0 18px;
+    border-bottom: 1px solid var(--rt-line);
+}
+.rt-tab {
+    padding: 8px 14px 9px;
+    font-size: 13px;
+    font-weight: 550;
+    color: var(--rt-mut);
+    text-decoration: none;
+    border: 0;
+    border-bottom: 2px solid transparent;
+    margin-bottom: -1px;
+    transition: color .12s ease;
+}
+.rt-tab:hover { color: var(--rt-ink); }
+.rt-tab.is-active {
+    color: var(--rt-accent);
+    border-bottom-color: var(--rt-accent);
+    font-weight: 650;
+}
+.rt-tab:focus { box-shadow: none; outline: 1px dotted var(--rt-accent); outline-offset: 2px; }
+
+/* ---- карточки ---- */
+
+.rt-ui .rt-card {
+    background: var(--rt-bg);
+    border: 1px solid var(--rt-line);
+    border-radius: 10px;
+    padding: 18px 20px;
+    margin-bottom: 16px;
+}
+.rt-ui .rt-card > h2,
+.rt-ui .rt-card h2:first-child {
+    margin: 0 0 10px;
+    padding: 0;
+    font-size: 14px;
+    font-weight: 650;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--rt-mut);
+}
+.rt-ui .rt-card h3 {
+    font-size: 13px;
+    font-weight: 650;
+    color: var(--rt-ink);
+    margin: 18px 0 6px;
+}
+.rt-ui .rt-card h4 { font-size: 13px; margin: 16px 0 4px; }
+.rt-ui .description { color: var(--rt-mut); }
+.rt-card-danger { border-left: 3px solid var(--rt-danger) !important; }
+
+/* ---- кнопки (перекраска WP .button внутри .rt-ui) ---- */
+
+.rt-ui .button,
+.rt-ui .rt-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    min-height: 32px;
+    padding: 4px 14px;
+    border: 1px solid var(--rt-accent);
+    border-radius: 6px;
+    background: #fff;
+    color: var(--rt-accent);
+    font-size: 13px;
+    font-weight: 550;
+    line-height: 1.4;
+    cursor: pointer;
+    box-shadow: none;
+    text-decoration: none;
+    transition: background .12s ease, color .12s ease, border-color .12s ease;
+}
+.rt-ui .button:hover,
+.rt-ui .rt-btn:hover { background: var(--rt-accent-bg); color: var(--rt-accent-2); border-color: var(--rt-accent-2); }
+
+.rt-ui .button-primary,
+.rt-ui .rt-btn-primary { background: var(--rt-accent); color: #fff; }
+.rt-ui .button-primary:hover,
+.rt-ui .rt-btn-primary:hover { background: var(--rt-accent-2); color: #fff; }
+
+.rt-ui .button-small { min-height: 26px; padding: 2px 10px; font-size: 12px; }
+.rt-ui .button-large { min-height: 36px; padding: 6px 18px; }
+.rt-ui .button[disabled], .rt-ui .button:disabled {
+    border-color: var(--rt-line) !important;
+    color: var(--rt-mut) !important;
+    background: var(--rt-soft) !important;
+    cursor: default;
+}
+.rt-btn-ghost { border-color: var(--rt-line) !important; color: var(--rt-mut) !important; }
+.rt-btn-ghost:hover { background: var(--rt-soft) !important; }
+
+/* опасные кнопки */
+.rt-ui .rt-pk-remove.button,
+.rt-ui .rt-delete-user.button {
+    color: var(--rt-danger);
+    border-color: #e6c6c3;
+}
+.rt-ui .rt-pk-remove.button:hover,
+.rt-ui .rt-delete-user.button:hover {
+    background: var(--rt-danger);
+    border-color: var(--rt-danger);
+    color: #fff;
+}
+
+/* ---- поля ввода ---- */
+
+.rt-ui input[type="text"],
+.rt-ui input[type="file"],
+.rt-ui select {
+    border: 1px solid var(--rt-line);
+    border-radius: 6px;
+    box-shadow: none;
+    color: var(--rt-ink);
+    min-height: 32px;
+}
+.rt-ui input[type="text"]:focus,
+.rt-ui select:focus {
+    border-color: var(--rt-accent);
+    box-shadow: 0 0 0 1px var(--rt-accent);
+    outline: none;
+}
+
+/* ---- таблицы ---- */
+
+.rt-ui table.widefat,
+.rt-ui .rt-table {
+    width: 100%;
+    border: 0;
+    border-collapse: collapse;
+    box-shadow: none;
+    background: transparent;
+}
+.rt-ui table.widefat th,
+.rt-ui .rt-table th {
+    text-align: left;
+    padding: 6px 10px;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--rt-mut);
+    font-weight: 600;
+    border-bottom: 1px solid var(--rt-line);
+    background: transparent;
+}
+.rt-ui table.widefat td,
+.rt-ui .rt-table td {
+    padding: 9px 10px;
+    border-bottom: 1px solid var(--rt-line);
+    vertical-align: middle;
+}
+.rt-ui table.widefat tr:last-child td,
+.rt-ui .rt-table tr:last-child td { border-bottom: 0; }
+.rt-ui table.widefat tbody tr:hover,
+.rt-ui .rt-table tbody tr:hover { background: #fafbfa; }
+.rt-ui table.widefat.striped > tbody > tr:nth-child(odd) { background: transparent; }
+.rt-ui table.widefat.striped > tbody > tr:nth-child(odd):hover { background: #fafbfa; }
+.rt-ui .rt-table a, .rt-ui table.widefat a { color: var(--rt-accent); text-decoration: none; }
+.rt-ui .rt-table a:hover, .rt-ui table.widefat a:hover { text-decoration: underline; }
+
+.rt-table-scroll {
+    max-height: 285px;
+    overflow-y: auto;
+    border: 1px solid var(--rt-line);
+    border-radius: 8px;
+}
+.rt-user-table { border: none !important; }
+.rt-user-table th {
+    position: sticky;
+    top: 0;
+    background: #fff;
+    z-index: 1;
+    box-shadow: 0 1px 0 var(--rt-line);
+}
+
+/* ---- бейджи, роли, пилюли ---- */
+
+.rt-badge {
+    display: inline-block;
+    padding: 1px 7px;
+    border-radius: 999px;
+    font-size: 10px;
+    font-weight: 650;
+    margin-left: 5px;
+    vertical-align: middle;
+    text-transform: uppercase;
+    letter-spacing: .04em;
+}
+.rt-badge-hidden { background: var(--rt-danger); color: #fff; }
+.rt-badge-you    { background: var(--rt-accent); color: #fff; }
+
+.rt-role {
+    display: inline-block;
+    padding: 1px 8px;
+    border-radius: 999px;
+    font-size: 11px;
+    background: var(--rt-soft);
+    border: 1px solid var(--rt-line);
+    color: var(--rt-ink);
+    margin-right: 2px;
+}
+.rt-role-administrator { background: #fdeeed; border-color: #eccfcc; color: var(--rt-danger); }
+.rt-role-editor        { background: var(--rt-accent-bg); border-color: #d5e6de; color: var(--rt-accent); }
+.rt-role-author        { background: #f2f6ec; border-color: #dde8cf; color: #4f7a1d; }
+
+.rt-pill {
+    display: inline-block;
+    padding: 1px 8px;
+    border-radius: 999px;
+    font-size: 11px;
+    background: var(--rt-accent-bg);
+    color: var(--rt-accent);
+    border: 1px solid #d5e6de;
+}
+.rt-pill-dead {
+    margin-left: 6px;
+    background: var(--rt-warn-bg);
+    color: var(--rt-warn);
+    border-color: #ecdfc0;
+}
+
+/* ---- уведомления ---- */
+
+.rt-note, .rt-notice {
+    padding: 12px 16px;
+    border-radius: 8px;
+    margin: 0 0 14px;
+    border: 1px solid var(--rt-line);
+    background: var(--rt-bg);
+}
+.rt-note-ok,   .rt-notice-success { border-color: #bfe0d2; background: #f2faf6; }
+.rt-note-warn                     { border-color: #ecd9a8; background: var(--rt-warn-bg); }
+.rt-notice-error                  { border-color: #eccfcc; background: var(--rt-danger-bg); }
+.rt-notice p { margin: 0; font-size: 13px; }
+.rt-ui .notice.inline { border-radius: 8px; }
+
+/* ---- переключатель ---- */
+
+.rt-switch {
+    position: relative;
+    display: inline-block;
+    width: 44px;
+    height: 24px;
+    border-radius: 12px;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    background: #cdd4d0;
+    transition: background .2s;
+    flex-shrink: 0;
+    outline: none;
+}
+.rt-switch:focus-visible { box-shadow: 0 0 0 2px var(--rt-accent); }
+.rt-switch.is-on { background: var(--rt-accent); }
+.rt-switch-knob {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    background: #fff;
+    border-radius: 50%;
+    top: 3px;
+    left: 3px;
+    box-shadow: 0 1px 3px rgba(0,0,0,.25);
+    transition: transform .2s;
+    pointer-events: none;
+}
+.rt-switch.is-on .rt-switch-knob { transform: translateX(20px); }
+
+/* ---- код и прогресс ---- */
+
+.rt-ui pre {
+    background: var(--rt-soft);
+    border: 1px solid var(--rt-line);
+    border-radius: 8px;
+    padding: 12px 16px;
+    font-size: 12px;
+    line-height: 1.65;
+    overflow-x: auto;
+}
+.rt-code-dark {
+    background: #20261f;
+    border: 0;
+    color: #d7e4dc;
+    border-radius: 8px;
+    padding: 12px 16px;
+    font-size: 12.5px;
+    line-height: 1.7;
+    overflow-x: auto;
+}
+.rt-progress {
+    background: var(--rt-soft);
+    border: 1px solid var(--rt-line);
+    border-radius: 999px;
+    height: 12px;
+    overflow: hidden;
+}
+.rt-progress-bar {
+    background: var(--rt-accent);
+    height: 100%;
+    width: 0;
+    transition: width .3s;
+}
+
+/* ---- сканер бэкдоров ---- */
+
+.rt-finding { margin-top: 10px; font-size: 12px; }
+.rt-finding pre {
+    background: #20261f;
+    border: 0;
+    color: #f4a9a5;
+    padding: 8px 12px;
+    border-radius: 8px;
+    margin: 4px 0 0;
+    font-size: 11px;
+    white-space: pre-wrap;
+    word-break: break-all;
+}
+.rt-line-badge {
+    background: var(--rt-danger);
+    color: #fff;
+    font-size: 10px;
+    padding: 1px 6px;
+    border-radius: 4px;
+    margin-right: 4px;
+}
+.rt-pattern-label { color: var(--rt-mut); }
+
+/* ---- Post Keywords ---- */
+
+#rt-pk-list { max-width: 520px; }
+.rt-pk-row {
+    display: grid;
+    grid-template-columns: 1fr 48px 90px;
+    align-items: center;
+    gap: 16px;
+    padding: 10px 0;
+    border-bottom: 1px solid var(--rt-line);
+}
+.rt-pk-row:last-child { border-bottom: none; }
+.rt-pk-slug { font-size: 13px; }
+.rt-pk-delete-placeholder { display: inline-block; width: 90px; }
+
+/* ---- DB Snapshot ---- */
+
+.rt-dbs-table { margin-top: 12px; }
+.rt-dbs-total { margin-top: 14px; font-size: 14px; }
+.rt-dbs-actions { display: flex; align-items: center; margin-top: 16px; gap: 8px; }
+.rt-dbs-notice { padding: 12px 16px; border-radius: 8px; }
+.rt-dbs-notice h2 { margin: 4px 0 8px; }
+.rt-dbs-notice ul { margin: 0; }
+
+/* ---- Settings ---- */
+
+.rt-settings-section {
+    padding: 14px 0;
+    border-bottom: 1px solid var(--rt-line);
+}
+.rt-settings-section:first-child { padding-top: 0; }
+.rt-settings-section:last-child  { border-bottom: none; padding-bottom: 0; }
+.rt-settings-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+}
+.rt-settings-info { display: flex; flex-direction: column; gap: 2px; }
+.rt-settings-label { font-size: 13px; font-weight: 600; }
+.rt-settings-desc  { font-size: 12px; }
+.rt-settings-fields { margin-top: 12px; padding-left: 16px; }
+.rt-settings-field { margin-bottom: 8px; }
+.rt-settings-field:last-child { margin-bottom: 0; }
+.rt-settings-field-label { display: block; font-weight: 600; font-size: 12px; margin-bottom: 4px; }
+
+.rt-tip {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    background: var(--rt-mut);
+    color: #fff;
+    font-size: 9px;
+    font-weight: 700;
+    cursor: default;
+    position: relative;
+    flex-shrink: 0;
+    line-height: 1;
+}
+.rt-tip::after {
+    content: attr(data-tip);
+    position: absolute;
+    top: calc(100% + 7px);
+    left: 50%;
+    transform: translateX(-50%);
+    background: #20261f;
+    color: #fff;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 1.5;
+    padding: 7px 10px;
+    border-radius: 6px;
+    width: 210px;
+    white-space: normal;
+    text-align: left;
+    z-index: 9999;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.15s;
+}
+.rt-tip:hover::after { opacity: 1; }
+.rt-tip.rt-tip-end::after { left: auto; right: 0; transform: none; }
+
+/* ---- статус-строка (news sitemap) ---- */
+
+.rt-status-line {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 20px;
+    padding: 10px 14px;
+    background: var(--rt-soft);
+    border: 1px solid var(--rt-line);
+    border-radius: 8px;
+}
+.rt-status-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: #cdd4d0;
+    flex-shrink: 0;
+    transition: background .3s;
+}
+
+/* ============================================================
+   Internal Linking (Перелинковка) — свои компоненты
+   ============================================================ */
+
+.rt-il { max-width: 1100px; margin-top: 4px; }
+
+.rt-il-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 24px;
+    flex-wrap: wrap;
+    margin-bottom: 18px;
+}
+.rt-il-head h2 {
+    margin: 0 0 4px;
+    font-size: 18px;
+    font-weight: 650;
+    letter-spacing: -0.01em;
+    padding: 0;
+}
+.rt-il-sub { margin: 0; max-width: 560px; color: var(--rt-mut); }
+.rt-il-stats { display: flex; gap: 10px; flex-shrink: 0; }
+.rt-il-stat {
+    min-width: 78px;
+    padding: 10px 14px;
+    background: var(--rt-bg);
+    border: 1px solid var(--rt-line);
+    border-radius: 8px;
+    text-align: center;
+}
+.rt-il-stat b {
+    display: block;
+    font-size: 19px;
+    font-weight: 650;
+    font-variant-numeric: tabular-nums;
+    color: var(--rt-accent);
+}
+.rt-il-stat span {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--rt-mut);
+}
+
+.rt-il-note { padding: 12px 16px; border-radius: 8px; margin: 0 0 14px; border: 1px solid; }
+.rt-il-note-ok   { border-color: #bfe0d2; background: #f2faf6; }
+.rt-il-note-warn { border-color: #ecd9a8; background: var(--rt-warn-bg); }
+.rt-il-note code { background: rgba(0,0,0,0.05); }
+
+.rt-il-card {
+    background: var(--rt-bg);
+    border: 1px solid var(--rt-line);
+    border-radius: 10px;
+    padding: 18px 20px;
+    margin-bottom: 16px;
+}
+.rt-il-card h3 {
+    margin: 0 0 12px;
+    font-size: 14px;
+    font-weight: 650;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--rt-mut);
+}
+.rt-il-card-danger { border-left: 3px solid var(--rt-danger); }
+
+.rt-il-actions form {
+    display: flex;
+    align-items: baseline;
+    gap: 14px;
+    padding: 9px 0;
+    border-top: 1px solid var(--rt-line);
+}
+.rt-il-actions form:first-child { border-top: 0; padding-top: 0; }
+.rt-il-actions span { color: var(--rt-mut); }
+.rt-il-actions span b { color: var(--rt-ink); font-variant-numeric: tabular-nums; }
+.rt-il-actions .rt-il-btn { min-width: 260px; flex-shrink: 0; }
+
+.rt-il-btn {
+    padding: 6px 14px;
+    border: 1px solid var(--rt-accent);
+    border-radius: 6px;
+    background: #fff;
+    color: var(--rt-accent);
+    font-size: 13px;
+    font-weight: 550;
+    cursor: pointer;
+    transition: background 0.12s ease, color 0.12s ease;
+}
+.rt-il-btn:hover { background: var(--rt-accent-bg); }
+.rt-il-btn-primary { background: var(--rt-accent); color: #fff; }
+.rt-il-btn-primary:hover { background: var(--rt-accent-2); color: #fff; }
+.rt-il-btn-ghost { border-color: var(--rt-line); color: var(--rt-mut); }
+.rt-il-btn-ghost:hover { background: var(--rt-soft); }
+
+.rt-il-table { width: 100%; border-collapse: collapse; }
+.rt-il-table th {
+    text-align: left;
+    padding: 6px 10px;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--rt-mut);
+    border-bottom: 1px solid var(--rt-line);
+    font-weight: 600;
+}
+.rt-il-table td { padding: 9px 10px; border-bottom: 1px solid var(--rt-line); vertical-align: top; }
+.rt-il-table tr:last-child td { border-bottom: 0; }
+.rt-il-table tbody tr:hover { background: #fafbfa; }
+.rt-il-table a { color: var(--rt-accent); text-decoration: none; }
+.rt-il-table a:hover { text-decoration: underline; }
+
+.rt-il-anchor {
+    font-family: Consolas, Monaco, monospace;
+    font-size: 12.5px;
+    background: var(--rt-soft);
+    border: 1px solid var(--rt-line);
+    border-radius: 5px;
+    padding: 2px 7px;
+}
+.rt-il-num { font-variant-numeric: tabular-nums; }
+.rt-il-right { text-align: right; }
+.rt-il-dead td { color: var(--rt-mut); }
+.rt-il-dead .rt-il-anchor { background: #f7f7f7; color: var(--rt-mut); }
+.rt-il-pill {
+    display: inline-block;
+    padding: 1px 8px;
+    border-radius: 999px;
+    font-size: 11px;
+    background: var(--rt-accent-bg);
+    color: var(--rt-accent);
+    border: 1px solid #d5e6de;
+}
+.rt-il-pill-dead {
+    margin-left: 6px;
+    background: var(--rt-warn-bg);
+    color: var(--rt-warn);
+    border-color: #ecdfc0;
+}
+.rt-il-muted { color: var(--rt-mut); margin: 8px 0 0; }
+.rt-il-code {
+    background: #20261f;
+    color: #d7e4dc;
+    border-radius: 8px;
+    padding: 12px 16px;
+    font-size: 12.5px;
+    line-height: 1.7;
+    overflow-x: auto;
+}
+
+/* ---- инструкция для админов (Перелинковка) ---- */
+
+.rt-il-guide {
+    background: #f6faf8;
+    border: 1px solid #cfe4da;
+    border-radius: 10px;
+    padding: 18px 20px;
+    margin-bottom: 16px;
+}
+.rt-il-guide h3 {
+    margin: 0 0 8px;
+    font-size: 14px;
+    font-weight: 650;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--rt-accent);
+}
+.rt-il-guide-lead { margin: 0 0 14px; max-width: 760px; }
+
+.rt-il-steps {
+    list-style: none;
+    counter-reset: rt-step;
+    margin: 0 0 6px;
+    padding: 0;
+    max-width: 820px;
+}
+.rt-il-steps li {
+    counter-increment: rt-step;
+    position: relative;
+    padding: 0 0 12px 40px;
+    margin: 0;
+}
+.rt-il-steps li::before {
+    content: counter(rt-step);
+    position: absolute;
+    left: 0;
+    top: 1px;
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    background: var(--rt-accent);
+    color: #fff;
+    font-size: 13px;
+    font-weight: 650;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.rt-il-steps li:not(:last-child)::after {
+    content: "";
+    position: absolute;
+    left: 12.5px;
+    top: 30px;
+    bottom: 2px;
+    width: 1px;
+    background: #cfe4da;
+}
+.rt-il-steps b { color: var(--rt-ink); }
+
+.rt-il-guide-cols {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px 28px;
+    margin: 10px 0 4px;
+}
+@media (max-width: 900px) { .rt-il-guide-cols { grid-template-columns: 1fr; } }
+.rt-il-guide-cols h4 {
+    margin: 0 0 4px;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--rt-mut);
+}
+.rt-il-guide-cols ul { margin: 0; padding-left: 18px; }
+.rt-il-guide-cols li { margin: 0 0 4px; }
+
+.rt-il-guide-hint {
+    margin: 12px 0 0;
+    padding-top: 10px;
+    border-top: 1px solid #cfe4da;
+    color: var(--rt-mut);
+    max-width: 820px;
+}
+
+/* ---- индикация выполнения действий ---- */
+
+.rt-il-btn.is-busy,
+.rt-il-btn:disabled {
+    opacity: 0.65;
+    cursor: default;
+}
+.rt-il-btn.is-busy {
+    opacity: 1;
+    background: var(--rt-accent);
+    color: #fff;
+    border-color: var(--rt-accent);
+}
+.rt-il-spinner {
+    display: inline-block;
+    width: 13px;
+    height: 13px;
+    margin-right: 8px;
+    vertical-align: -2px;
+    border: 2px solid rgba(255,255,255,0.35);
+    border-top-color: #fff;
+    border-radius: 50%;
+    animation: rt-spin 0.7s linear infinite;
+}
+@keyframes rt-spin {
+    to { transform: rotate(360deg); }
+}
+
+/* ============================================================
+   Casino (Казино) — метабокс и секция
+   ============================================================ */
+
+.rt-cas-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 24px;
+    flex-wrap: wrap;
+    margin-bottom: 18px;
+}
+.rt-cas-head h2 { margin: 0 0 4px; font-size: 18px; font-weight: 650; padding: 0; }
+.rt-cas-sub { margin: 0; max-width: 640px; color: var(--rt-mut); }
+.rt-cas-stats { display: flex; gap: 10px; flex-shrink: 0; }
+.rt-cas-stat {
+    min-width: 78px;
+    padding: 10px 14px;
+    background: var(--rt-bg);
+    border: 1px solid var(--rt-line);
+    border-radius: 8px;
+    text-align: center;
+}
+.rt-cas-stat b { display: block; font-size: 19px; font-weight: 650; color: var(--rt-accent); }
+.rt-cas-stat span { font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--rt-mut); }
+.rt-cas-muted { color: var(--rt-mut); font-size: 12px; }
+
+/* Метабокс на экране редактирования казино */
+.rt-cas-fields { max-width: 720px; }
+.rt-cas-row { margin: 0 0 16px; }
+.rt-cas-row label { display: block; font-weight: 600; font-size: 13px; margin-bottom: 5px; }
+.rt-cas-row .description { margin: 5px 0 0; color: var(--rt-mut); font-size: 12px; }
+.rt-cas-optional { font-weight: 400; color: var(--rt-mut); font-size: 11px; text-transform: none; }
+.rt-cas-row-readonly { padding-top: 8px; border-top: 1px solid var(--rt-line); }
+.rt-cas-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0 20px; }
+.rt-cas-pros-input { display: block; width: 100%; max-width: 480px; margin-bottom: 6px; }
+
+/* ============================================================
+   Casino showcase block — editor-only UI (Крок 4)
+   ============================================================ */
+
+.rt-cas-block-edit {
+    border: 1px dashed var(--rt-line, #e3e7e4);
+    border-radius: 10px;
+    padding: 16px;
+}
+.rt-cas-block-picker .components-base-control { margin-bottom: 8px; }
+.rt-cas-block-results {
+    list-style: none;
+    margin: 0 0 12px;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+}
+.rt-cas-block-list {
+    list-style: none;
+    margin: 12px 0 0;
+    padding: 0;
+    counter-reset: rt-cas-block-item;
+}
+.rt-cas-block-list li {
+    counter-increment: rt-cas-block-item;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 8px 10px;
+    border: 1px solid var(--rt-line, #e3e7e4);
+    border-radius: 6px;
+    margin-bottom: 6px;
+    background: #fff;
+}
+.rt-cas-block-list li::before {
+    content: counter(rt-cas-block-item) ".";
+    color: var(--rt-mut, #6b7671);
+    font-size: 12px;
+    margin-right: 6px;
+}
+.rt-cas-block-list-title { flex: 1; font-size: 13px; }
+.rt-cas-block-list-actions { display: flex; gap: 4px; flex-shrink: 0; }
+.rt-cas-block-remove { color: #b3261e; }
+.rt-cas-block-preview {
+    margin-top: 16px;
+    padding-top: 16px;
+    border-top: 1px solid var(--rt-line, #e3e7e4);
+}

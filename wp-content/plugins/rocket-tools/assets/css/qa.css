@@ -1,0 +1,55 @@
+/* Rocket Tools — QA tab */
+
+.rt-qa-summary { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin: 12px 0; }
+.rt-qa-badge {
+	display: inline-block; padding: 3px 10px; border-radius: 12px;
+	font-size: 12px; font-weight: 600; color: #fff;
+}
+.rt-qa-badge.crit { background: #d63638; }
+.rt-qa-badge.warn { background: #dba617; }
+.rt-qa-badge.ok   { background: #2271b1; }
+.rt-qa-badge.skip { background: #8c8f94; }
+.rt-qa-when { color: #646970; font-size: 12px; margin-left: 8px; }
+
+.rt-qa-toolbar { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin: 12px 0 18px; }
+.rt-qa-toolbar form { margin: 0; display: inline-flex; align-items: center; }
+.rt-qa-spinner { float: none; margin: 0 0 0 6px; }
+.rt-qa-spinner.is-active { visibility: visible; }
+
+.rt-qa-filters {
+	display: flex; flex-wrap: wrap; gap: 8px; align-items: center;
+	margin: 10px 0 14px; padding: 10px; background: #f6f7f7; border: 1px solid #dcdcde; border-radius: 6px;
+}
+.rt-qa-filters select { max-width: 220px; }
+.rt-qa-reappeared { display: inline-flex; align-items: center; gap: 4px; font-size: 13px; }
+
+.rt-qa-table { margin-top: 6px; }
+.rt-qa-table th, .rt-qa-table td { vertical-align: top; }
+.rt-qa-col-sev { width: 170px; }
+.rt-qa-col-res { width: 180px; }
+
+.rt-qa-dot { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 4px; vertical-align: middle; }
+.rt-qa-crit { background: #d63638; }
+.rt-qa-warn { background: #dba617; }
+.rt-qa-ok   { background: #46b450; }
+.rt-qa-skip { background: #8c8f94; }
+
+.rt-qa-row-crit { box-shadow: inset 3px 0 0 #d63638; }
+.rt-qa-row-warn { box-shadow: inset 3px 0 0 #dba617; }
+.rt-qa-row-skip { box-shadow: inset 3px 0 0 #8c8f94; }
+
+.rt-qa-problem { color: #50575e; font-size: 12px; margin: 3px 0; word-break: break-word; }
+.rt-qa-url { font-size: 12px; word-break: break-all; }
+
+.rt-qa-reappeared-badge {
+	display: inline-block; margin-left: 6px; padding: 1px 7px; border-radius: 10px;
+	background: #d63638; color: #fff; font-size: 11px; font-weight: 600;
+}
+
+.rt-qa-resolve { max-width: 100%; }
+.rt-qa-flash { margin-left: 6px; font-size: 12px; font-weight: 600; }
+.rt-qa-flash.ok  { color: #2a7d2e; }
+.rt-qa-flash.err { color: #d63638; }
+
+.rt-qa-caps { margin-top: 12px; max-width: 780px; }
+.rt-qa-history { margin-top: 8px; max-width: 640px; }

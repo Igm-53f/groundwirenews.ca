@@ -1,0 +1,4696 @@
+{
+  "html_checked": 15,
+  "css_checked": 940,
+  "css_files_skipped": 0,
+  "css_warnings": [],
+  "sitemap": "https://groundwirenews.ca/sitemap_index.xml",
+  "localized_urls": 2377,
+  "removed_links": [
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "http://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/about-us/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/contact/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/naomi-osaka-defends-on-court-fashion-choices-us-open/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/naomi-osaka-defends-on-court-fashion-choices-us-open/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/daniel-fraser/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-win-against-athletics-soriano-shines/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-win-against-athletics-soriano-shines/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/daniel-fraser/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-lowry-hellebuyck-trade-speculation/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-lowry-hellebuyck-trade-speculation/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/daniel-fraser/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/drones-aid-search-missing-canadian-skyrunner-matterhorn/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/drones-aid-search-missing-canadian-skyrunner-matterhorn/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/daniel-fraser/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/antonelli-stunning-comeback-win-monza-ferrari-struggles/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/antonelli-stunning-comeback-win-monza-ferrari-struggles/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/daniel-fraser/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/arandas-homer-secures-rays-victory-over-rangers/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/arandas-homer-secures-rays-victory-over-rangers/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/daniel-fraser/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/inter-milan-dramatic-comeback-napoli-serie-a-thriller/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/inter-milan-dramatic-comeback-napoli-serie-a-thriller/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/daniel-fraser/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/cardinals-manager-ejected-umpire-hat-directive/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/cardinals-manager-ejected-umpire-hat-directive/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/daniel-fraser/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/cleveland-guardians-doubleheader-walk-off-sweep/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/cleveland-guardians-doubleheader-walk-off-sweep/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/daniel-fraser/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-defeat-royals-reach-500-mark/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-defeat-royals-reach-500-mark/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/daniel-fraser/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/daniel-fraser/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/daniel-fraser/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/ohl-season-commences-with-key-matchups/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/penticton-hosts-canucks-training-camp-rebuild/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-suspend-hellebuyck-not-reporting-camp/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/edmonton-oilers-camp-formenton-babcock-controversy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/fernando-alonso-f1-future-uncertain-aston-martin/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/ohl-season-commences-with-key-matchups/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/penticton-hosts-canucks-training-camp-rebuild/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-suspend-hellebuyck-not-reporting-camp/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/edmonton-oilers-camp-formenton-babcock-controversy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/fernando-alonso-f1-future-uncertain-aston-martin/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/about-us/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/contact/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/privacy-policy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/cookie-policy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/terms-and-conditions/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "https://groundwirenews.ca/authors/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/daniel-fraser/page/2/index.html",
+      "url": "http://groundwirenews.ca/author/daniel-fraser/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "http://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/about-us/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/contact/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/new-national-hockey-broadcasts-monday-saturday-games/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/new-national-hockey-broadcasts-monday-saturday-games/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/emily-tremblay/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/shohei-ohtani-returns-dodgers-lineup-designated-hitter/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/shohei-ohtani-returns-dodgers-lineup-designated-hitter/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/emily-tremblay/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/kimi-antonelli-monza-victory-f1-debut-crash/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/kimi-antonelli-monza-victory-f1-debut-crash/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/emily-tremblay/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/kimi-antonelli-monza-triumph-italian-grand-prix/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/kimi-antonelli-monza-triumph-italian-grand-prix/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/emily-tremblay/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-secure-wild-card-position-72-71-record/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-secure-wild-card-position-72-71-record/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/emily-tremblay/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/montreal-alouettes-rally-to-defeat-bc-lions/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/montreal-alouettes-rally-to-defeat-bc-lions/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/emily-tremblay/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/ipswich-town-prepares-for-liverpool-match-portman-road/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/ipswich-town-prepares-for-liverpool-match-portman-road/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/emily-tremblay/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/wnba-commissioner-cathy-engelbert-to-retire-at-years-end/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/wnba-commissioner-cathy-engelbert-to-retire-at-years-end/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/emily-tremblay/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/emily-tremblay/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/emily-tremblay/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/ohl-season-commences-with-key-matchups/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/penticton-hosts-canucks-training-camp-rebuild/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-suspend-hellebuyck-not-reporting-camp/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/edmonton-oilers-camp-formenton-babcock-controversy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/fernando-alonso-f1-future-uncertain-aston-martin/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/ohl-season-commences-with-key-matchups/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/penticton-hosts-canucks-training-camp-rebuild/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-suspend-hellebuyck-not-reporting-camp/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/edmonton-oilers-camp-formenton-babcock-controversy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/fernando-alonso-f1-future-uncertain-aston-martin/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/about-us/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/contact/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/privacy-policy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/cookie-policy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/terms-and-conditions/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "https://groundwirenews.ca/authors/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/emily-tremblay/page/2/index.html",
+      "url": "http://groundwirenews.ca/author/emily-tremblay/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "http://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/about-us/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/contact/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/melbourne-nfl-entertainment-rams-49ers-game/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/melbourne-nfl-entertainment-rams-49ers-game/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/priya-sharma/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/santander-triple-a-rehab-assignment-blue-jays/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/santander-triple-a-rehab-assignment-blue-jays/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/priya-sharma/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/manchester-city-perfect-start-narrow-win-coventry/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/manchester-city-perfect-start-narrow-win-coventry/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/priya-sharma/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/regina-pizza-greek-tradition-rivalry-rider-fans/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/regina-pizza-greek-tradition-rivalry-rider-fans/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/priya-sharma/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/patrik-laine-montreal-canadiens-rival-clubs-interest/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/patrik-laine-montreal-canadiens-rival-clubs-interest/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/priya-sharma/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/priya-sharma/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/priya-sharma/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/ohl-season-commences-with-key-matchups/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/penticton-hosts-canucks-training-camp-rebuild/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-suspend-hellebuyck-not-reporting-camp/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/edmonton-oilers-camp-formenton-babcock-controversy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/fernando-alonso-f1-future-uncertain-aston-martin/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/ohl-season-commences-with-key-matchups/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/penticton-hosts-canucks-training-camp-rebuild/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-suspend-hellebuyck-not-reporting-camp/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/edmonton-oilers-camp-formenton-babcock-controversy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/fernando-alonso-f1-future-uncertain-aston-martin/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/about-us/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/contact/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/privacy-policy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/cookie-policy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/terms-and-conditions/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "https://groundwirenews.ca/authors/",
+      "reason": "excluded"
+    },
+    {
+      "page": "author/priya-sharma/page/2/index.html",
+      "url": "http://groundwirenews.ca/author/priya-sharma/",
+      "reason": "excluded"
+    },
+    {
+      "page": "casino-bonuses/index.html",
+      "url": "https://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "casino-bonuses/index.html",
+      "url": "http://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "casino-bonuses/index.html",
+      "url": "https://groundwirenews.ca/about-us/",
+      "reason": "excluded"
+    },
+    {
+      "page": "casino-bonuses/index.html",
+      "url": "https://groundwirenews.ca/category/",
+      "reason": "excluded"
+    },
+    {
+      "page": "casino-bonuses/index.html",
+      "url": "https://groundwirenews.ca/contact/",
+      "reason": "excluded"
+    },
+    {
+      "page": "casino-bonuses/index.html",
+      "url": "https://groundwirenews.ca/ohl-season-commences-with-key-matchups/",
+      "reason": "excluded"
+    },
+    {
+      "page": "casino-bonuses/index.html",
+      "url": "https://groundwirenews.ca/penticton-hosts-canucks-training-camp-rebuild/",
+      "reason": "excluded"
+    },
+    {
+      "page": "casino-bonuses/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-suspend-hellebuyck-not-reporting-camp/",
+      "reason": "excluded"
+    },
+    {
+      "page": "casino-bonuses/index.html",
+      "url": "https://groundwirenews.ca/edmonton-oilers-camp-formenton-babcock-controversy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "casino-bonuses/index.html",
+      "url": "https://groundwirenews.ca/fernando-alonso-f1-future-uncertain-aston-martin/",
+      "reason": "excluded"
+    },
+    {
+      "page": "casino-bonuses/index.html",
+      "url": "https://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "casino-bonuses/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "casino-bonuses/index.html",
+      "url": "https://groundwirenews.ca/ohl-season-commences-with-key-matchups/",
+      "reason": "excluded"
+    },
+    {
+      "page": "casino-bonuses/index.html",
+      "url": "https://groundwirenews.ca/penticton-hosts-canucks-training-camp-rebuild/",
+      "reason": "excluded"
+    },
+    {
+      "page": "casino-bonuses/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-suspend-hellebuyck-not-reporting-camp/",
+      "reason": "excluded"
+    },
+    {
+      "page": "casino-bonuses/index.html",
+      "url": "https://groundwirenews.ca/edmonton-oilers-camp-formenton-babcock-controversy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "casino-bonuses/index.html",
+      "url": "https://groundwirenews.ca/fernando-alonso-f1-future-uncertain-aston-martin/",
+      "reason": "excluded"
+    },
+    {
+      "page": "casino-bonuses/index.html",
+      "url": "https://groundwirenews.ca/about-us/",
+      "reason": "excluded"
+    },
+    {
+      "page": "casino-bonuses/index.html",
+      "url": "https://groundwirenews.ca/category/",
+      "reason": "excluded"
+    },
+    {
+      "page": "casino-bonuses/index.html",
+      "url": "https://groundwirenews.ca/contact/",
+      "reason": "excluded"
+    },
+    {
+      "page": "casino-bonuses/index.html",
+      "url": "https://groundwirenews.ca/privacy-policy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "casino-bonuses/index.html",
+      "url": "https://groundwirenews.ca/cookie-policy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "casino-bonuses/index.html",
+      "url": "https://groundwirenews.ca/terms-and-conditions/",
+      "reason": "excluded"
+    },
+    {
+      "page": "casino-bonuses/index.html",
+      "url": "https://groundwirenews.ca/authors/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "http://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/about-us/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/contact/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/raptors-reacquire-kawhi-leonard-blockbuster-trade/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/raptors-reacquire-kawhi-leonard-blockbuster-trade/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/emily-tremblay/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-fall-to-tigers-wild-card-race-update/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-fall-to-tigers-wild-card-race-update/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/daniel-fraser/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/montreal-canadiens-sign-chris-kreider-forward-hopes-to-win-o/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/montreal-canadiens-sign-chris-kreider-forward-hopes-to-win-o/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/emily-tremblay/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/sydney-sweeney-novig-ad-criticized-women-athletes/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/sydney-sweeney-novig-ad-criticized-women-athletes/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/emily-tremblay/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/guerrero-jr-hits-first-home-run-rogers-centre/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/guerrero-jr-hits-first-home-run-rogers-centre/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/daniel-fraser/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/toronto-boxing-icon-george-chuvalo-dies-at-89/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/toronto-boxing-icon-george-chuvalo-dies-at-89/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/daniel-fraser/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/elena-rybakina-claims-us-open-title-over-aryna-sabalenka/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/elena-rybakina-claims-us-open-title-over-aryna-sabalenka/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/emily-tremblay/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-playoff-odds-shift-after-loss-to-orioles/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-playoff-odds-shift-after-loss-to-orioles/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/daniel-fraser/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/madrid-antonelli-leads-friday-practice-new-circuit/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/madrid-antonelli-leads-friday-practice-new-circuit/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/daniel-fraser/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/netherlands-hosts-solheim-cup-day-two-foursomes/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/netherlands-hosts-solheim-cup-day-two-foursomes/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/author/priya-sharma/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/ohl-season-commences-with-key-matchups/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/penticton-hosts-canucks-training-camp-rebuild/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-suspend-hellebuyck-not-reporting-camp/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/edmonton-oilers-camp-formenton-babcock-controversy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/fernando-alonso-f1-future-uncertain-aston-martin/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/ohl-season-commences-with-key-matchups/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/penticton-hosts-canucks-training-camp-rebuild/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-suspend-hellebuyck-not-reporting-camp/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/edmonton-oilers-camp-formenton-babcock-controversy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/fernando-alonso-f1-future-uncertain-aston-martin/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/about-us/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/contact/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/privacy-policy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/cookie-policy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/terms-and-conditions/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/authors/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "http://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/about-us/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/category/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/contact/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-blue-bombers-banjo-bowl-rematch-roughriders/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-blue-bombers-banjo-bowl-rematch-roughriders/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/author/emily-tremblay/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/rudy-martin-jr-blue-jays-call-up-after-retirement-contemplat/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/rudy-martin-jr-blue-jays-call-up-after-retirement-contemplat/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/author/priya-sharma/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/melbourne-hosts-nfl-regular-season-match-100k-fans/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/melbourne-hosts-nfl-regular-season-match-100k-fans/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/author/emily-tremblay/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/edmonton-oilers-2026-rookie-camp-prospects-draft-picks/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/edmonton-oilers-2026-rookie-camp-prospects-draft-picks/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/author/priya-sharma/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/surrey-demolishes-for-new-10000-seat-arena/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/surrey-demolishes-for-new-10000-seat-arena/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/author/priya-sharma/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/nll-ottawa-philadelphia-franchises-cease-operations/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/nll-ottawa-philadelphia-franchises-cease-operations/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/author/daniel-fraser/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/toronto-fc-beats-nashville-sc-extends-unbeaten-streak/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/toronto-fc-beats-nashville-sc-extends-unbeaten-streak/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/author/priya-sharma/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/seattle-seahawks-sam-darnold-hip-injury-update/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/seattle-seahawks-sam-darnold-hip-injury-update/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/author/daniel-fraser/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/oilers-signing-alex-formenton-mama-stanley-withdraws-support/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/oilers-signing-alex-formenton-mama-stanley-withdraws-support/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/author/priya-sharma/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/new-national-hockey-broadcasts-monday-saturday-games/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/new-national-hockey-broadcasts-monday-saturday-games/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/author/emily-tremblay/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/ohl-season-commences-with-key-matchups/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/penticton-hosts-canucks-training-camp-rebuild/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-suspend-hellebuyck-not-reporting-camp/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/edmonton-oilers-camp-formenton-babcock-controversy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/fernando-alonso-f1-future-uncertain-aston-martin/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/ohl-season-commences-with-key-matchups/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/penticton-hosts-canucks-training-camp-rebuild/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-suspend-hellebuyck-not-reporting-camp/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/edmonton-oilers-camp-formenton-babcock-controversy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/fernando-alonso-f1-future-uncertain-aston-martin/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/about-us/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/category/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/contact/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/privacy-policy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/cookie-policy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/terms-and-conditions/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/3/index.html",
+      "url": "https://groundwirenews.ca/authors/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "http://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/about-us/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/category/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/contact/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/antonelli-stunning-comeback-win-monza-ferrari-struggles/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/antonelli-stunning-comeback-win-monza-ferrari-struggles/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/author/daniel-fraser/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/arandas-homer-secures-rays-victory-over-rangers/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/arandas-homer-secures-rays-victory-over-rangers/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/author/daniel-fraser/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-secure-wild-card-position-72-71-record/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-secure-wild-card-position-72-71-record/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/author/emily-tremblay/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/manchester-city-perfect-start-narrow-win-coventry/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/manchester-city-perfect-start-narrow-win-coventry/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/author/priya-sharma/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/inter-milan-dramatic-comeback-napoli-serie-a-thriller/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/inter-milan-dramatic-comeback-napoli-serie-a-thriller/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/author/daniel-fraser/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/regina-pizza-greek-tradition-rivalry-rider-fans/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/regina-pizza-greek-tradition-rivalry-rider-fans/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/author/priya-sharma/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/cardinals-manager-ejected-umpire-hat-directive/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/cardinals-manager-ejected-umpire-hat-directive/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/author/daniel-fraser/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/cleveland-guardians-doubleheader-walk-off-sweep/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/cleveland-guardians-doubleheader-walk-off-sweep/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/author/daniel-fraser/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/montreal-alouettes-rally-to-defeat-bc-lions/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/montreal-alouettes-rally-to-defeat-bc-lions/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/author/emily-tremblay/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-defeat-royals-reach-500-mark/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-defeat-royals-reach-500-mark/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/author/daniel-fraser/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/ohl-season-commences-with-key-matchups/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/penticton-hosts-canucks-training-camp-rebuild/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-suspend-hellebuyck-not-reporting-camp/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/edmonton-oilers-camp-formenton-babcock-controversy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/fernando-alonso-f1-future-uncertain-aston-martin/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/ohl-season-commences-with-key-matchups/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/penticton-hosts-canucks-training-camp-rebuild/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-suspend-hellebuyck-not-reporting-camp/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/edmonton-oilers-camp-formenton-babcock-controversy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/fernando-alonso-f1-future-uncertain-aston-martin/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/about-us/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/category/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/contact/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/privacy-policy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/cookie-policy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/terms-and-conditions/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/5/index.html",
+      "url": "https://groundwirenews.ca/authors/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "http://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/about-us/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/category/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/contact/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/naomi-osaka-defends-on-court-fashion-choices-us-open/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/naomi-osaka-defends-on-court-fashion-choices-us-open/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/author/daniel-fraser/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-win-against-athletics-soriano-shines/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-win-against-athletics-soriano-shines/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/author/daniel-fraser/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/mac-appeals-western-michigan-loss-to-michigan-ncaa/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/mac-appeals-western-michigan-loss-to-michigan-ncaa/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/author/priya-sharma/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-lowry-hellebuyck-trade-speculation/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-lowry-hellebuyck-trade-speculation/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/author/daniel-fraser/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/melbourne-nfl-entertainment-rams-49ers-game/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/melbourne-nfl-entertainment-rams-49ers-game/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/author/priya-sharma/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/shohei-ohtani-returns-dodgers-lineup-designated-hitter/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/shohei-ohtani-returns-dodgers-lineup-designated-hitter/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/author/emily-tremblay/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/santander-triple-a-rehab-assignment-blue-jays/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/santander-triple-a-rehab-assignment-blue-jays/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/author/priya-sharma/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/kimi-antonelli-monza-victory-f1-debut-crash/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/kimi-antonelli-monza-victory-f1-debut-crash/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/author/emily-tremblay/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/drones-aid-search-missing-canadian-skyrunner-matterhorn/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/drones-aid-search-missing-canadian-skyrunner-matterhorn/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/author/daniel-fraser/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/kimi-antonelli-monza-triumph-italian-grand-prix/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/kimi-antonelli-monza-triumph-italian-grand-prix/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/author/emily-tremblay/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/ohl-season-commences-with-key-matchups/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/penticton-hosts-canucks-training-camp-rebuild/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-suspend-hellebuyck-not-reporting-camp/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/edmonton-oilers-camp-formenton-babcock-controversy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/fernando-alonso-f1-future-uncertain-aston-martin/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/ohl-season-commences-with-key-matchups/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/penticton-hosts-canucks-training-camp-rebuild/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-suspend-hellebuyck-not-reporting-camp/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/edmonton-oilers-camp-formenton-babcock-controversy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/fernando-alonso-f1-future-uncertain-aston-martin/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/about-us/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/category/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/contact/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/privacy-policy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/cookie-policy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/terms-and-conditions/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/4/index.html",
+      "url": "https://groundwirenews.ca/authors/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/6/index.html",
+      "url": "https://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/6/index.html",
+      "url": "http://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/6/index.html",
+      "url": "https://groundwirenews.ca/about-us/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/6/index.html",
+      "url": "https://groundwirenews.ca/category/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/6/index.html",
+      "url": "https://groundwirenews.ca/contact/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/6/index.html",
+      "url": "https://groundwirenews.ca/ipswich-town-prepares-for-liverpool-match-portman-road/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/6/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/6/index.html",
+      "url": "https://groundwirenews.ca/ipswich-town-prepares-for-liverpool-match-portman-road/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/6/index.html",
+      "url": "https://groundwirenews.ca/author/emily-tremblay/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/6/index.html",
+      "url": "https://groundwirenews.ca/wnba-commissioner-cathy-engelbert-to-retire-at-years-end/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/6/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/6/index.html",
+      "url": "https://groundwirenews.ca/wnba-commissioner-cathy-engelbert-to-retire-at-years-end/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/6/index.html",
+      "url": "https://groundwirenews.ca/author/emily-tremblay/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/6/index.html",
+      "url": "https://groundwirenews.ca/patrik-laine-montreal-canadiens-rival-clubs-interest/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/6/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/6/index.html",
+      "url": "https://groundwirenews.ca/patrik-laine-montreal-canadiens-rival-clubs-interest/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/6/index.html",
+      "url": "https://groundwirenews.ca/author/priya-sharma/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/6/index.html",
+      "url": "https://groundwirenews.ca/ohl-season-commences-with-key-matchups/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/6/index.html",
+      "url": "https://groundwirenews.ca/penticton-hosts-canucks-training-camp-rebuild/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/6/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-suspend-hellebuyck-not-reporting-camp/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/6/index.html",
+      "url": "https://groundwirenews.ca/edmonton-oilers-camp-formenton-babcock-controversy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/6/index.html",
+      "url": "https://groundwirenews.ca/fernando-alonso-f1-future-uncertain-aston-martin/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/6/index.html",
+      "url": "https://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/6/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/6/index.html",
+      "url": "https://groundwirenews.ca/ohl-season-commences-with-key-matchups/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/6/index.html",
+      "url": "https://groundwirenews.ca/penticton-hosts-canucks-training-camp-rebuild/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/6/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-suspend-hellebuyck-not-reporting-camp/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/6/index.html",
+      "url": "https://groundwirenews.ca/edmonton-oilers-camp-formenton-babcock-controversy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/6/index.html",
+      "url": "https://groundwirenews.ca/fernando-alonso-f1-future-uncertain-aston-martin/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/6/index.html",
+      "url": "https://groundwirenews.ca/about-us/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/6/index.html",
+      "url": "https://groundwirenews.ca/category/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/6/index.html",
+      "url": "https://groundwirenews.ca/contact/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/6/index.html",
+      "url": "https://groundwirenews.ca/privacy-policy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/6/index.html",
+      "url": "https://groundwirenews.ca/cookie-policy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/6/index.html",
+      "url": "https://groundwirenews.ca/terms-and-conditions/",
+      "reason": "excluded"
+    },
+    {
+      "page": "category/sport/page/6/index.html",
+      "url": "https://groundwirenews.ca/authors/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "http://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/about-us/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/category/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/contact/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/ohl-season-commences-with-key-matchups/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/ohl-season-commences-with-key-matchups/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/penticton-hosts-canucks-training-camp-rebuild/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/penticton-hosts-canucks-training-camp-rebuild/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-suspend-hellebuyck-not-reporting-camp/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-suspend-hellebuyck-not-reporting-camp/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/edmonton-oilers-camp-formenton-babcock-controversy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/edmonton-oilers-camp-formenton-babcock-controversy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/fernando-alonso-f1-future-uncertain-aston-martin/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/fernando-alonso-f1-future-uncertain-aston-martin/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-face-playoff-pressure-after-tigers-loss/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-face-playoff-pressure-after-tigers-loss/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/author/emily-tremblay/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/canadiens-training-camp-brossard-57-players-2026/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/canadiens-training-camp-brossard-57-players-2026/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/connor-bedard-named-captain-chicago-blackhawks/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/connor-bedard-named-captain-chicago-blackhawks/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/detroit-red-wings-name-shawn-horcoff-interim-gm/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/detroit-red-wings-name-shawn-horcoff-interim-gm/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/female-athletes-criticize-sydney-sweeney-ad-sexualizing-wome/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/female-athletes-criticize-sydney-sweeney-ad-sexualizing-wome/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/raptors-reacquire-kawhi-leonard-blockbuster-trade/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/raptors-reacquire-kawhi-leonard-blockbuster-trade/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-fall-to-tigers-wild-card-race-update/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-fall-to-tigers-wild-card-race-update/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/montreal-canadiens-sign-chris-kreider-forward-hopes-to-win-o/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/montreal-canadiens-sign-chris-kreider-forward-hopes-to-win-o/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/sydney-sweeney-novig-ad-criticized-women-athletes/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/sydney-sweeney-novig-ad-criticized-women-athletes/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/guerrero-jr-hits-first-home-run-rogers-centre/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/guerrero-jr-hits-first-home-run-rogers-centre/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/toronto-boxing-icon-george-chuvalo-dies-at-89/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/toronto-boxing-icon-george-chuvalo-dies-at-89/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/patrik-laine-montreal-canadiens-rival-clubs-interest/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/patrik-laine-montreal-canadiens-rival-clubs-interest/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-defeat-royals-reach-500-mark/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-defeat-royals-reach-500-mark/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/ipswich-town-prepares-for-liverpool-match-portman-road/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/ipswich-town-prepares-for-liverpool-match-portman-road/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/cleveland-guardians-doubleheader-walk-off-sweep/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/cleveland-guardians-doubleheader-walk-off-sweep/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/wnba-commissioner-cathy-engelbert-to-retire-at-years-end/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/wnba-commissioner-cathy-engelbert-to-retire-at-years-end/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-secure-wild-card-position-72-71-record/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-secure-wild-card-position-72-71-record/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/ohl-season-commences-with-key-matchups/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/penticton-hosts-canucks-training-camp-rebuild/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-suspend-hellebuyck-not-reporting-camp/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/edmonton-oilers-camp-formenton-babcock-controversy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/fernando-alonso-f1-future-uncertain-aston-martin/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/about-us/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/category/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/contact/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/privacy-policy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/cookie-policy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/terms-and-conditions/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/authors/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/2/index.html",
+      "url": "https://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "http://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/about-us/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/category/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/contact/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/ohl-season-commences-with-key-matchups/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/ohl-season-commences-with-key-matchups/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/penticton-hosts-canucks-training-camp-rebuild/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/penticton-hosts-canucks-training-camp-rebuild/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-suspend-hellebuyck-not-reporting-camp/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-suspend-hellebuyck-not-reporting-camp/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/edmonton-oilers-camp-formenton-babcock-controversy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/edmonton-oilers-camp-formenton-babcock-controversy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/fernando-alonso-f1-future-uncertain-aston-martin/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/fernando-alonso-f1-future-uncertain-aston-martin/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-face-playoff-pressure-after-tigers-loss/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-face-playoff-pressure-after-tigers-loss/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/author/emily-tremblay/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/canadiens-training-camp-brossard-57-players-2026/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/canadiens-training-camp-brossard-57-players-2026/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/connor-bedard-named-captain-chicago-blackhawks/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/connor-bedard-named-captain-chicago-blackhawks/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/detroit-red-wings-name-shawn-horcoff-interim-gm/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/detroit-red-wings-name-shawn-horcoff-interim-gm/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/female-athletes-criticize-sydney-sweeney-ad-sexualizing-wome/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/female-athletes-criticize-sydney-sweeney-ad-sexualizing-wome/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/raptors-reacquire-kawhi-leonard-blockbuster-trade/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/raptors-reacquire-kawhi-leonard-blockbuster-trade/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-fall-to-tigers-wild-card-race-update/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-fall-to-tigers-wild-card-race-update/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/montreal-canadiens-sign-chris-kreider-forward-hopes-to-win-o/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/montreal-canadiens-sign-chris-kreider-forward-hopes-to-win-o/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/sydney-sweeney-novig-ad-criticized-women-athletes/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/sydney-sweeney-novig-ad-criticized-women-athletes/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/guerrero-jr-hits-first-home-run-rogers-centre/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/guerrero-jr-hits-first-home-run-rogers-centre/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/toronto-boxing-icon-george-chuvalo-dies-at-89/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/toronto-boxing-icon-george-chuvalo-dies-at-89/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/patrik-laine-montreal-canadiens-rival-clubs-interest/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/patrik-laine-montreal-canadiens-rival-clubs-interest/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-defeat-royals-reach-500-mark/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-defeat-royals-reach-500-mark/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/ipswich-town-prepares-for-liverpool-match-portman-road/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/ipswich-town-prepares-for-liverpool-match-portman-road/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/cleveland-guardians-doubleheader-walk-off-sweep/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/cleveland-guardians-doubleheader-walk-off-sweep/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/wnba-commissioner-cathy-engelbert-to-retire-at-years-end/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/wnba-commissioner-cathy-engelbert-to-retire-at-years-end/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-secure-wild-card-position-72-71-record/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-secure-wild-card-position-72-71-record/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/ohl-season-commences-with-key-matchups/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/penticton-hosts-canucks-training-camp-rebuild/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-suspend-hellebuyck-not-reporting-camp/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/edmonton-oilers-camp-formenton-babcock-controversy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/fernando-alonso-f1-future-uncertain-aston-martin/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/about-us/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/category/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/contact/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/privacy-policy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/cookie-policy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/terms-and-conditions/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/3/index.html",
+      "url": "https://groundwirenews.ca/authors/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "http://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/about-us/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/category/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/contact/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/ohl-season-commences-with-key-matchups/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/ohl-season-commences-with-key-matchups/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/penticton-hosts-canucks-training-camp-rebuild/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/penticton-hosts-canucks-training-camp-rebuild/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-suspend-hellebuyck-not-reporting-camp/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-suspend-hellebuyck-not-reporting-camp/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/edmonton-oilers-camp-formenton-babcock-controversy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/edmonton-oilers-camp-formenton-babcock-controversy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/fernando-alonso-f1-future-uncertain-aston-martin/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/fernando-alonso-f1-future-uncertain-aston-martin/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-face-playoff-pressure-after-tigers-loss/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-face-playoff-pressure-after-tigers-loss/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/author/emily-tremblay/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/canadiens-training-camp-brossard-57-players-2026/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/canadiens-training-camp-brossard-57-players-2026/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/connor-bedard-named-captain-chicago-blackhawks/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/connor-bedard-named-captain-chicago-blackhawks/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/detroit-red-wings-name-shawn-horcoff-interim-gm/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/detroit-red-wings-name-shawn-horcoff-interim-gm/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/female-athletes-criticize-sydney-sweeney-ad-sexualizing-wome/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/female-athletes-criticize-sydney-sweeney-ad-sexualizing-wome/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/raptors-reacquire-kawhi-leonard-blockbuster-trade/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/raptors-reacquire-kawhi-leonard-blockbuster-trade/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-fall-to-tigers-wild-card-race-update/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-fall-to-tigers-wild-card-race-update/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/montreal-canadiens-sign-chris-kreider-forward-hopes-to-win-o/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/montreal-canadiens-sign-chris-kreider-forward-hopes-to-win-o/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/sydney-sweeney-novig-ad-criticized-women-athletes/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/sydney-sweeney-novig-ad-criticized-women-athletes/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/guerrero-jr-hits-first-home-run-rogers-centre/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/guerrero-jr-hits-first-home-run-rogers-centre/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/toronto-boxing-icon-george-chuvalo-dies-at-89/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/toronto-boxing-icon-george-chuvalo-dies-at-89/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/patrik-laine-montreal-canadiens-rival-clubs-interest/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/patrik-laine-montreal-canadiens-rival-clubs-interest/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-defeat-royals-reach-500-mark/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-defeat-royals-reach-500-mark/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/ipswich-town-prepares-for-liverpool-match-portman-road/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/ipswich-town-prepares-for-liverpool-match-portman-road/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/cleveland-guardians-doubleheader-walk-off-sweep/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/cleveland-guardians-doubleheader-walk-off-sweep/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/wnba-commissioner-cathy-engelbert-to-retire-at-years-end/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/wnba-commissioner-cathy-engelbert-to-retire-at-years-end/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/montreal-alouettes-rally-to-defeat-bc-lions/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/montreal-alouettes-rally-to-defeat-bc-lions/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/ohl-season-commences-with-key-matchups/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/penticton-hosts-canucks-training-camp-rebuild/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-suspend-hellebuyck-not-reporting-camp/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/edmonton-oilers-camp-formenton-babcock-controversy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/fernando-alonso-f1-future-uncertain-aston-martin/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/about-us/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/category/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/contact/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/privacy-policy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/cookie-policy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/terms-and-conditions/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/4/index.html",
+      "url": "https://groundwirenews.ca/authors/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "http://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/about-us/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/category/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/contact/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/ohl-season-commences-with-key-matchups/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/ohl-season-commences-with-key-matchups/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/penticton-hosts-canucks-training-camp-rebuild/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/penticton-hosts-canucks-training-camp-rebuild/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-suspend-hellebuyck-not-reporting-camp/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-suspend-hellebuyck-not-reporting-camp/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/edmonton-oilers-camp-formenton-babcock-controversy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/edmonton-oilers-camp-formenton-babcock-controversy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/fernando-alonso-f1-future-uncertain-aston-martin/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/fernando-alonso-f1-future-uncertain-aston-martin/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-face-playoff-pressure-after-tigers-loss/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-face-playoff-pressure-after-tigers-loss/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/author/emily-tremblay/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/canadiens-training-camp-brossard-57-players-2026/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/canadiens-training-camp-brossard-57-players-2026/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/connor-bedard-named-captain-chicago-blackhawks/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/connor-bedard-named-captain-chicago-blackhawks/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/detroit-red-wings-name-shawn-horcoff-interim-gm/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/detroit-red-wings-name-shawn-horcoff-interim-gm/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/female-athletes-criticize-sydney-sweeney-ad-sexualizing-wome/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/female-athletes-criticize-sydney-sweeney-ad-sexualizing-wome/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/raptors-reacquire-kawhi-leonard-blockbuster-trade/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/raptors-reacquire-kawhi-leonard-blockbuster-trade/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-fall-to-tigers-wild-card-race-update/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-fall-to-tigers-wild-card-race-update/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/montreal-canadiens-sign-chris-kreider-forward-hopes-to-win-o/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/montreal-canadiens-sign-chris-kreider-forward-hopes-to-win-o/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/sydney-sweeney-novig-ad-criticized-women-athletes/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/sydney-sweeney-novig-ad-criticized-women-athletes/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/guerrero-jr-hits-first-home-run-rogers-centre/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/guerrero-jr-hits-first-home-run-rogers-centre/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/toronto-boxing-icon-george-chuvalo-dies-at-89/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/toronto-boxing-icon-george-chuvalo-dies-at-89/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/patrik-laine-montreal-canadiens-rival-clubs-interest/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/patrik-laine-montreal-canadiens-rival-clubs-interest/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-defeat-royals-reach-500-mark/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-defeat-royals-reach-500-mark/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/ipswich-town-prepares-for-liverpool-match-portman-road/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/ipswich-town-prepares-for-liverpool-match-portman-road/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/cleveland-guardians-doubleheader-walk-off-sweep/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/cleveland-guardians-doubleheader-walk-off-sweep/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/wnba-commissioner-cathy-engelbert-to-retire-at-years-end/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/wnba-commissioner-cathy-engelbert-to-retire-at-years-end/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/montreal-alouettes-rally-to-defeat-bc-lions/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/montreal-alouettes-rally-to-defeat-bc-lions/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/ohl-season-commences-with-key-matchups/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/penticton-hosts-canucks-training-camp-rebuild/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-suspend-hellebuyck-not-reporting-camp/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/edmonton-oilers-camp-formenton-babcock-controversy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/fernando-alonso-f1-future-uncertain-aston-martin/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/about-us/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/category/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/contact/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/privacy-policy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/cookie-policy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/terms-and-conditions/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/5/index.html",
+      "url": "https://groundwirenews.ca/authors/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "http://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/about-us/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/category/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/contact/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/ohl-season-commences-with-key-matchups/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/ohl-season-commences-with-key-matchups/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/penticton-hosts-canucks-training-camp-rebuild/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/penticton-hosts-canucks-training-camp-rebuild/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-suspend-hellebuyck-not-reporting-camp/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-suspend-hellebuyck-not-reporting-camp/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/edmonton-oilers-camp-formenton-babcock-controversy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/edmonton-oilers-camp-formenton-babcock-controversy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/fernando-alonso-f1-future-uncertain-aston-martin/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/fernando-alonso-f1-future-uncertain-aston-martin/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-face-playoff-pressure-after-tigers-loss/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-face-playoff-pressure-after-tigers-loss/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/author/emily-tremblay/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/canadiens-training-camp-brossard-57-players-2026/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/canadiens-training-camp-brossard-57-players-2026/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/connor-bedard-named-captain-chicago-blackhawks/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/connor-bedard-named-captain-chicago-blackhawks/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/detroit-red-wings-name-shawn-horcoff-interim-gm/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/detroit-red-wings-name-shawn-horcoff-interim-gm/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/female-athletes-criticize-sydney-sweeney-ad-sexualizing-wome/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/female-athletes-criticize-sydney-sweeney-ad-sexualizing-wome/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/raptors-reacquire-kawhi-leonard-blockbuster-trade/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/raptors-reacquire-kawhi-leonard-blockbuster-trade/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-fall-to-tigers-wild-card-race-update/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-fall-to-tigers-wild-card-race-update/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/montreal-canadiens-sign-chris-kreider-forward-hopes-to-win-o/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/montreal-canadiens-sign-chris-kreider-forward-hopes-to-win-o/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/sydney-sweeney-novig-ad-criticized-women-athletes/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/sydney-sweeney-novig-ad-criticized-women-athletes/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/guerrero-jr-hits-first-home-run-rogers-centre/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/guerrero-jr-hits-first-home-run-rogers-centre/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/toronto-boxing-icon-george-chuvalo-dies-at-89/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/toronto-boxing-icon-george-chuvalo-dies-at-89/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/patrik-laine-montreal-canadiens-rival-clubs-interest/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/patrik-laine-montreal-canadiens-rival-clubs-interest/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-defeat-royals-reach-500-mark/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/blue-jays-defeat-royals-reach-500-mark/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/ipswich-town-prepares-for-liverpool-match-portman-road/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/ipswich-town-prepares-for-liverpool-match-portman-road/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/cleveland-guardians-doubleheader-walk-off-sweep/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/cleveland-guardians-doubleheader-walk-off-sweep/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/wnba-commissioner-cathy-engelbert-to-retire-at-years-end/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/wnba-commissioner-cathy-engelbert-to-retire-at-years-end/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/montreal-alouettes-rally-to-defeat-bc-lions/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/montreal-alouettes-rally-to-defeat-bc-lions/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/ohl-season-commences-with-key-matchups/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/penticton-hosts-canucks-training-camp-rebuild/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-suspend-hellebuyck-not-reporting-camp/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/edmonton-oilers-camp-formenton-babcock-controversy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/fernando-alonso-f1-future-uncertain-aston-martin/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/about-us/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/category/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/contact/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/privacy-policy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/cookie-policy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/terms-and-conditions/",
+      "reason": "excluded"
+    },
+    {
+      "page": "page/6/index.html",
+      "url": "https://groundwirenews.ca/authors/",
+      "reason": "excluded"
+    },
+    {
+      "page": "404.html",
+      "url": "https://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "404.html",
+      "url": "http://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "404.html",
+      "url": "https://groundwirenews.ca/about-us/",
+      "reason": "excluded"
+    },
+    {
+      "page": "404.html",
+      "url": "https://groundwirenews.ca/category/",
+      "reason": "excluded"
+    },
+    {
+      "page": "404.html",
+      "url": "https://groundwirenews.ca/contact/",
+      "reason": "excluded"
+    },
+    {
+      "page": "404.html",
+      "url": "https://groundwirenews.ca/",
+      "reason": "excluded"
+    },
+    {
+      "page": "404.html",
+      "url": "https://groundwirenews.ca/category/sport/",
+      "reason": "excluded"
+    },
+    {
+      "page": "404.html",
+      "url": "https://groundwirenews.ca/ohl-season-commences-with-key-matchups/",
+      "reason": "excluded"
+    },
+    {
+      "page": "404.html",
+      "url": "https://groundwirenews.ca/penticton-hosts-canucks-training-camp-rebuild/",
+      "reason": "excluded"
+    },
+    {
+      "page": "404.html",
+      "url": "https://groundwirenews.ca/winnipeg-jets-suspend-hellebuyck-not-reporting-camp/",
+      "reason": "excluded"
+    },
+    {
+      "page": "404.html",
+      "url": "https://groundwirenews.ca/edmonton-oilers-camp-formenton-babcock-controversy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "404.html",
+      "url": "https://groundwirenews.ca/fernando-alonso-f1-future-uncertain-aston-martin/",
+      "reason": "excluded"
+    },
+    {
+      "page": "404.html",
+      "url": "https://groundwirenews.ca/about-us/",
+      "reason": "excluded"
+    },
+    {
+      "page": "404.html",
+      "url": "https://groundwirenews.ca/category/",
+      "reason": "excluded"
+    },
+    {
+      "page": "404.html",
+      "url": "https://groundwirenews.ca/contact/",
+      "reason": "excluded"
+    },
+    {
+      "page": "404.html",
+      "url": "https://groundwirenews.ca/privacy-policy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "404.html",
+      "url": "https://groundwirenews.ca/cookie-policy/",
+      "reason": "excluded"
+    },
+    {
+      "page": "404.html",
+      "url": "https://groundwirenews.ca/terms-and-conditions/",
+      "reason": "excluded"
+    },
+    {
+      "page": "404.html",
+      "url": "https://groundwirenews.ca/authors/",
+      "reason": "excluded"
+    }
+  ],
+  "removed_cards": [],
+  "menu_redirects_to_home": [],
+  "broken_links": [],
+  "broken_assets": [],
+  "manual_checks": [
+    [
+      "404.html",
+      "form requires separate functional check"
+    ],
+    [
+      "author/daniel-fraser/page/2/index.html",
+      "form requires separate functional check"
+    ],
+    [
+      "author/emily-tremblay/page/2/index.html",
+      "form requires separate functional check"
+    ],
+    [
+      "author/priya-sharma/page/2/index.html",
+      "form requires separate functional check"
+    ],
+    [
+      "casino-bonuses/index.html",
+      "form requires separate functional check"
+    ],
+    [
+      "category/sport/page/2/index.html",
+      "form requires separate functional check"
+    ],
+    [
+      "category/sport/page/3/index.html",
+      "form requires separate functional check"
+    ],
+    [
+      "category/sport/page/4/index.html",
+      "form requires separate functional check"
+    ],
+    [
+      "category/sport/page/5/index.html",
+      "form requires separate functional check"
+    ],
+    [
+      "category/sport/page/6/index.html",
+      "form requires separate functional check"
+    ],
+    [
+      "page/2/index.html",
+      "form requires separate functional check"
+    ],
+    [
+      "page/3/index.html",
+      "form requires separate functional check"
+    ],
+    [
+      "page/4/index.html",
+      "form requires separate functional check"
+    ],
+    [
+      "page/5/index.html",
+      "form requires separate functional check"
+    ],
+    [
+      "page/6/index.html",
+      "form requires separate functional check"
+    ]
+  ]
+}

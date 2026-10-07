@@ -1,0 +1,17 @@
+/*
+Theme Name:   Rocket Theme
+Description:  Rocket is a parent theme framework that ships logic and structure only — a classic PHP template skeleton, widget areas, page templates, and server-rendered Gutenberg blocks (hero, card grid, CTA banner, text + image, accordion, news carousel). It contains no styling CSS or front-end JavaScript: all visual presentation belongs to child themes built on top of it.
+Version:      1.1.1
+Author:       A
+Text Domain:  rocket-theme
+GitHub Theme URI: https://github.com/yourusername/rocket-theme
+*/
+
+/*
+  Layout variables — inherited by child themes and Gutenberg block widths.
+  Visual styling (colors, typography, spacing) belongs in the child theme.
+*/
+:root {
+    --wp--style--global--content-size: 930px;
+    --wp--style--global--wide-size: 1400px;
+}

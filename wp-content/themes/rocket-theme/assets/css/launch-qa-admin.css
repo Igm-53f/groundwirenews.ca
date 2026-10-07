@@ -1,0 +1,48 @@
+/* Launch QA admin styles (Launch QA v2). Loaded only on the Launch QA page. */
+
+.rt-qa-summary { margin: 1em 0 1.2em; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.rt-qa-badge { display: inline-block; padding: 4px 12px; border-radius: 999px; font-weight: 600; color: #fff; }
+.rt-qa-badge.rt-qa-critical { background: #b32d2e; }
+.rt-qa-badge.rt-qa-warning  { background: #bd8600; }
+.rt-qa-badge.rt-qa-pass     { background: #1a7f37; }
+.rt-qa-badge.rt-qa-manual   { background: #50575e; }
+.rt-qa-scan-time { color: #646970; font-size: 12px; margin-left: auto; }
+
+.rt-qa-toolbar { margin: 0 0 1.4em; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.rt-qa-toolbar form { display: inline; margin: 0; }
+.rt-qa-toolbar .spinner { float: none; margin: 0; }
+
+.rt-qa-table { margin-bottom: 2em; }
+.rt-qa-table td { vertical-align: top; padding-top: 10px; padding-bottom: 10px; }
+.rt-qa-status { width: 28px; }
+.rt-qa-title  { width: 22%; }
+.rt-qa-action { width: 200px; text-align: right; }
+
+.rt-qa-dot { display: inline-block; width: 12px; height: 12px; border-radius: 50%; margin-top: 4px; }
+.rt-qa-dot.rt-qa-pass     { background: #1a7f37; }
+.rt-qa-dot.rt-qa-warning  { background: #bd8600; }
+.rt-qa-dot.rt-qa-critical { background: #b32d2e; }
+.rt-qa-dot.rt-qa-info     { background: #2271b1; }
+
+.rt-qa-msg { line-height: 1.45; }
+.rt-qa-checked { display: block; margin-top: 4px; font-size: 12px; color: #646970; word-break: break-all; }
+.rt-qa-checked a { text-decoration: none; }
+.rt-qa-details { display: block; margin-top: 3px; font-size: 12px; color: #50575e; }
+.rt-qa-details code { font-size: 11px; background: #f0f0f1; padding: 1px 4px; border-radius: 3px; }
+.rt-qa-evidence { margin: 6px 0 0; padding: 8px 10px; background: #fcf9e8; border-left: 3px solid #dba617; border-radius: 0 3px 3px 0; font-size: 12px; }
+.rt-qa-evidence ul { margin: 0; padding-left: 18px; }
+.rt-qa-evidence li { margin: 2px 0; word-break: break-word; }
+tr.rt-qa-row-pass .rt-qa-evidence { display: none; }
+
+.rt-qa-preset-box { background: #fff; border: 1px solid #c3c4c7; border-radius: 6px; padding: 16px 20px; margin: 0 0 1.5em; max-width: 820px; }
+.rt-qa-preset-box h2 { margin-top: 0; }
+
+/* Visual probe results panel */
+.rt-qa-probe-panel { background: #fff; border: 1px solid #c3c4c7; border-radius: 6px; padding: 16px 20px; margin: 0 0 1.5em; }
+.rt-qa-probe-panel.is-hidden { display: none; }
+.rt-qa-probe-status { font-weight: 600; margin-bottom: 8px; }
+.rt-qa-probe-frames { position: absolute; left: -9999px; top: -9999px; width: 1px; height: 1px; overflow: hidden; }
+.rt-qa-probe-grid { display: grid; grid-template-columns: 18px 1fr; gap: 4px 8px; align-items: start; }
+.rt-qa-probe-grid .rt-qa-dot { margin-top: 4px; }
+.rt-qa-probe-grid .rt-qa-probe-line { font-size: 13px; line-height: 1.5; }
+.rt-qa-probe-grid .rt-qa-probe-detail { color: #646970; font-size: 12px; }

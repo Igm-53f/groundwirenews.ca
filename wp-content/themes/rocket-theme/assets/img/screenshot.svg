@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900">
+  <defs>
+    <linearGradient id="page" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1530"/>
+      <stop offset="1" stop-color="#070b18"/>
+    </linearGradient>
+    <radialGradient id="sky" cx="0.5" cy="0.35" r="0.75">
+      <stop offset="0" stop-color="#1e3a8a"/>
+      <stop offset="1" stop-color="#0b1120"/>
+    </radialGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7dd3fc"/>
+      <stop offset="1" stop-color="#a5b4fc"/>
+    </linearGradient>
+  </defs>
+
+  <!-- page background -->
+  <rect width="1200" height="900" fill="url(#page)"/>
+
+  <!-- scattered stars -->
+  <g fill="#e0f2fe" opacity="0.8">
+    <circle cx="160" cy="140" r="2.5"/>
+    <circle cx="320" cy="90" r="2"/>
+    <circle cx="980" cy="120" r="3"/>
+    <circle cx="1080" cy="240" r="2.5"/>
+    <circle cx="120" cy="360" r="2"/>
+    <circle cx="1040" cy="520" r="2.5"/>
+    <circle cx="200" cy="600" r="2"/>
+    <circle cx="900" cy="640" r="2.5"/>
+    <circle cx="640" cy="80" r="2"/>
+  </g>
+
+  <!-- badge emblem -->
+  <g transform="translate(600 330)">
+    <circle r="210" fill="url(#sky)" stroke="#38bdf8" stroke-width="9"/>
+    <g fill="#e0f2fe">
+      <circle cx="-120" cy="-110" r="3.5"/>
+      <circle cx="120" cy="-130" r="4.5"/>
+      <circle cx="140" cy="50" r="3.5"/>
+      <circle cx="-130" cy="70" r="4.5"/>
+      <circle cx="85" cy="130" r="3.5"/>
+    </g>
+    <!-- orbit -->
+    <ellipse rx="168" ry="70" fill="none" stroke="#38bdf8" stroke-width="4.5" stroke-dasharray="6 11" opacity="0.6" transform="rotate(-25)"/>
+    <!-- rocket -->
+    <g transform="rotate(40)">
+      <path d="M0 -118 c38 29 56 78 56 136 0 22 -5 42 -16 58 h-80 c-11 -16 -16 -36 -16 -58 0 -58 18 -107 56 -136 z" fill="#f8fafc"/>
+      <path d="M-56 50 c-24 11 -38 33 -40 62 22 -7 38 -16 51 -29 z" fill="#ef4444"/>
+      <path d="M56 50 c24 11 38 33 40 62 -22 -7 -38 -16 -51 -29 z" fill="#ef4444"/>
+      <circle cx="0" cy="-26" r="24" fill="#38bdf8"/>
+      <path d="M-22 78 h44 c0 29 -11 51 -22 64 -11 -13 -22 -35 -22 -64 z" fill="#f59e0b"/>
+    </g>
+  </g>
+
+  <!-- title -->
+  <text x="600" y="660" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="120" font-weight="800" letter-spacing="6" fill="url(#title)">ROCKET</text>
+  <text x="600" y="720" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="34" font-weight="400" letter-spacing="10" fill="#94a3b8">WORDPRESS PARENT THEME FRAMEWORK</text>
+
+  <!-- divider -->
+  <rect x="500" y="760" width="200" height="3" rx="1.5" fill="#38bdf8" opacity="0.7"/>
+</svg>
