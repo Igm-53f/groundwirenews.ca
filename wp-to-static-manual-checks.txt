@@ -8,6 +8,7 @@ category/sport/page/3/index.html	form requires separate functional check
 category/sport/page/4/index.html	form requires separate functional check
 category/sport/page/5/index.html	form requires separate functional check
 category/sport/page/6/index.html	form requires separate functional check
+index.html	form requires separate functional check
 page/2/index.html	form requires separate functional check
 page/3/index.html	form requires separate functional check
 page/4/index.html	form requires separate functional check
